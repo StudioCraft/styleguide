@@ -1,2 +1,2 @@
-# StudioCraft - Styleguide
-The StudioCraft internal styleguide.
+# Studiocraft - Styleguide
+Studiocraft's internal styleguide.
